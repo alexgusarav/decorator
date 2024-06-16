@@ -1,0 +1,6 @@
+{'data_time': '16 Jun 2024 10:16:29', 'name': 'hello_world', 'args': (), 'kwargs': {}, 'result': 'Hello World'}
+{'data_time': '16 Jun 2024 10:16:29', 'name': 'summator', 'args': (2, 2), 'kwargs': {}, 'result': 4}
+{'data_time': '16 Jun 2024 10:16:29', 'name': 'div', 'args': (6, 2), 'kwargs': {}, 'result': 3.0}
+{'data_time': '16 Jun 2024 10:16:29', 'name': 'summator', 'args': (4.3,), 'kwargs': {'b': 2.2}, 'result': 6.5}
+{'data_time': '16 Jun 2024 10:16:29', 'name': 'summator', 'args': (), 'kwargs': {'a': 0, 'b': 0}, 'result': 0}
+{'data_time': '16 Jun 2024 10:17:30', 'name': 'translate_word', 'args': ('вода',), 'kwargs': {}, 'result': 'water'}
